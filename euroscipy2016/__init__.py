@@ -1,2 +1,2 @@
-_author_="Nina Gunkelmann"
-_version_="0.0.1"
+__author__="Nina Gunkelmann"
+__version__="0.0.1"
